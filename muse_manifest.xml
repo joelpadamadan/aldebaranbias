@@ -1,0 +1,166 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1419098178990">
+  <folder name="css">
+    <file name="site_global.css" crc="232928415"/>
+    <file name="we.css" crc="4024296475" ref="we"/>
+    <file name="it.css" crc="4223817294" ref="it"/>
+    <file name="index.css" crc="4149497544" ref="index"/>
+    <file name="iefonts_index.css" crc="361394108" ref="index"/>
+    <file name="video.css" crc="3872937030" ref="video"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:it:we:video"/>
+    <file name="museutils.js" crc="353204447" ref="index:it:we:video"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="index:it:we:video"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="index:it:we:video"/>
+    <file name="jquery.scrolleffects.js" crc="4083300337" ref="index:it:we:video"/>
+    <file name="jquery.musemenu.js" crc="4076024383" ref="index:it:we:video"/>
+    <file name="pie.js" crc="3827607177" ref="index:it:video"/>
+    <file name="webpro.js" crc="317917375" ref="index:it:video"/>
+    <file name="musewpslideshow.js" crc="177288662" ref="index:it:video"/>
+    <file name="jquery.museoverlay.js" crc="524248676" ref="index:it:video"/>
+    <file name="touchswipe.js" crc="367691663" ref="index:it:video"/>
+    <file name="form_check.php" crc="4345382" ref="index"/>
+    <file name="form_throttle.php" crc="81770323" ref="index"/>
+    <file name="form-u1543.php" crc="431784321" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:it:we:video"/>
+  </folder>
+  <folder name="images">
+    <file name="aldebaranbias-favicon.ico" crc="430732908" ref="index"/>
+    <file name="photography.jpg" crc="3983230772" ref="index:it:we"/>
+    <file name="photography_2x.jpg" crc="3895151175" ref="index:it:we"/>
+    <file name="photographypurple.jpg" crc="4015113462" ref="index:it:we:video"/>
+    <file name="photographypurple_2x.jpg" crc="218136304" ref="index:it:we:video"/>
+    <file name="allogo2-u533-fr.jpg" crc="4278697548" ref="index"/>
+    <file name="allogo2-u533-fr_2x.jpg" crc="4134527492" ref="index"/>
+    <file name="allogo-u2837-fr.jpg" crc="72342436" ref="index"/>
+    <file name="allogo-u2837-fr_2x.jpg" crc="306398790" ref="index"/>
+    <file name="f2.png" crc="3970744108" ref="index"/>
+    <file name="f2_2x.png" crc="3918533896" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1.jpg" crc="522597290" ref="index"/>
+    <file name="1_2x.jpg" crc="4282650521" ref="index"/>
+    <file name="2 (1).jpg" crc="4236633817" ref="index"/>
+    <file name="2 (1)_2x.jpg" crc="68014654" ref="index"/>
+    <file name="2.jpg" crc="314279664" ref="index"/>
+    <file name="2_2x.jpg" crc="203596303" ref="index"/>
+    <file name="3 (1).jpg" crc="4095147169" ref="index"/>
+    <file name="3 (1)_2x.jpg" crc="4261176212" ref="index"/>
+    <file name="3.jpg" crc="238495876" ref="index"/>
+    <file name="3_2x.jpg" crc="211633548" ref="index"/>
+    <file name="5 (1).jpg" crc="3942772916" ref="index"/>
+    <file name="5 (1)_2x.jpg" crc="3922737012" ref="index"/>
+    <file name="6.jpg" crc="281605413" ref="index"/>
+    <file name="6_2x.jpg" crc="80875253" ref="index"/>
+    <file name="v1.png" crc="3906986863" ref="index"/>
+    <file name="v1_2x.png" crc="33983485" ref="index"/>
+    <file name="v2.png" crc="466293840" ref="index"/>
+    <file name="v2_2x.png" crc="4186282326" ref="index"/>
+    <file name="v4.png" crc="405518247" ref="index"/>
+    <file name="v4_2x.png" crc="3925439055" ref="index"/>
+    <file name="v7.png" crc="50103740" ref="index"/>
+    <file name="v7_2x.png" crc="3985055060" ref="index"/>
+    <file name="y1.png" crc="134403444" ref="index"/>
+    <file name="y1_2x.png" crc="3795318507" ref="index"/>
+    <file name="s2.png" crc="3922399680" ref="index"/>
+    <file name="s2_2x.png" crc="480580524" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="film-clapboard-psd7298-u950-fr.png" crc="3949024601" ref="index"/>
+    <file name="film-clapboard-psd7298-u950-fr_2x.png" crc="497112714" ref="index"/>
+    <file name="cogs-u952-fr.png" crc="4070914870" ref="index"/>
+    <file name="cogs-u952-fr_2x.png" crc="56785939" ref="index"/>
+    <file name="1614046_790369454315699_6261634684742718104_o-u969-fr.jpg" crc="320978385" ref="index"/>
+    <file name="1614046_790369454315699_6261634684742718104_o-u969-fr_2x.jpg" crc="137554302" ref="index"/>
+    <file name="sam-u970-fr.jpg" crc="4053891372" ref="index"/>
+    <file name="sam-u970-fr_2x.jpg" crc="4048550772" ref="index"/>
+    <file name="livingston-u971-fr.jpg" crc="390251362" ref="index"/>
+    <file name="livingston-u971-fr_2x.jpg" crc="489138733" ref="index"/>
+    <file name="joel-u972-fr.jpg" crc="523802186" ref="index"/>
+    <file name="joel-u972-fr_2x.jpg" crc="233541279" ref="index"/>
+    <file name="adarsh-u1333-fr.jpg" crc="354045650" ref="index"/>
+    <file name="adarsh-u1333-fr_2x.jpg" crc="4041681852" ref="index"/>
+    <file name="joseph-u1334-fr.jpg" crc="475486651" ref="index"/>
+    <file name="joseph-u1334-fr_2x.jpg" crc="4208020218" ref="index"/>
+    <file name="deepu-u1335-fr.jpg" crc="472940" ref="index"/>
+    <file name="deepu-u1335-fr_2x.jpg" crc="4109824776" ref="index"/>
+    <file name="stephen-u1336-fr.jpg" crc="384561651" ref="index"/>
+    <file name="stephen-u1336-fr_2x.jpg" crc="367479856" ref="index"/>
+    <file name="akash-u1345-fr.jpg" crc="377757871" ref="index"/>
+    <file name="akash-u1345-fr_2x.jpg" crc="4104200973" ref="index"/>
+    <file name="ajay-u1346-fr.jpg" crc="3999963968" ref="index"/>
+    <file name="ajay-u1346-fr_2x.jpg" crc="349816512" ref="index"/>
+    <file name="rohini2-u1347-fr.jpg" crc="522723099" ref="index"/>
+    <file name="rohini2-u1347-fr_2x.jpg" crc="155608309" ref="index"/>
+    <file name="unknown-person-ieu1535-fr.png" crc="3787404660" ref="index"/>
+    <file name="unknown-person.jpg" crc="507435652" ref="index"/>
+    <file name="unknown-person-ieu1535-fr2.png" crc="330544658" ref="index"/>
+    <file name="unknown-person_2x.jpg" crc="82936070" ref="index"/>
+    <file name="1599597_10151887061018531_2055838763_o-u966-fr.jpg" crc="388520403" ref="index"/>
+    <file name="1599597_10151887061018531_2055838763_o-u966-fr_2x.jpg" crc="385282172" ref="index"/>
+    <file name="u1555-17.png" crc="3806688618" ref="index"/>
+    <file name="u1555-17-r.png" crc="75620361" ref="index"/>
+    <file name="u1555-17-m.png" crc="502343067" ref="index"/>
+    <file name="u1555-17-fs.png" crc="132318495" ref="index"/>
+    <file name="u1555-17_2x.png" crc="3939037348" ref="index"/>
+    <file name="u1555-17-r_2x.png" crc="263260230" ref="index"/>
+    <file name="u1555-17-m_2x.png" crc="330825088" ref="index"/>
+    <file name="u1555-17-fs_2x.png" crc="60519951" ref="index"/>
+    <file name="arrow-u3206-fr.png" crc="118794113" ref="index"/>
+    <file name="arrow-u3206-fr_2x.png" crc="505365881" ref="index"/>
+    <file name="icon-instagram (1)-u1578-fr.png" crc="3946998076" ref="index:it:we:video"/>
+    <file name="icon-instagram (1)-u1578-fr_2x.png" crc="4245000258" ref="index:it:we:video"/>
+    <file name="1395924769_youtube_circle_black.png" crc="4137800031" ref="index:it:we:video"/>
+    <file name="1395924769_youtube_circle_black_2x.png" crc="409503100" ref="index:it:we:video"/>
+    <file name="facebookbw2-u1575-fr.png" crc="373278820" ref="index:it:we:video"/>
+    <file name="facebookbw2-u1575-fr_2x.png" crc="150341428" ref="index:it:we:video"/>
+    <file name="it-favicon.ico" crc="430732908" ref="it"/>
+    <file name="allogo2-u2143-fr.jpg" crc="4258899639" ref="it:we:video"/>
+    <file name="allogo2-u2143-fr_2x.jpg" crc="4148663348" ref="it:we:video"/>
+    <file name="ico-2-products-ieu2036-fr.png" crc="65769280" ref="it"/>
+    <file name="ico-2-products.png" crc="3804005790" ref="it"/>
+    <file name="ico-2-monitor2.png" crc="4101611900" ref="it"/>
+    <file name="ico-2-mobile.png" crc="4169856727" ref="it"/>
+    <file name="ico-2-bulb.png" crc="4222607358" ref="it"/>
+    <file name="html5-u2587-fr.png" crc="3898565441" ref="it"/>
+    <file name="html5-u2587-fr_2x.png" crc="4059843262" ref="it"/>
+    <file name="css-u2594-fr.png" crc="4111001169" ref="it"/>
+    <file name="css-u2594-fr_2x.png" crc="4265891635" ref="it"/>
+    <file name="js-u2593-fr.png" crc="4265917701" ref="it"/>
+    <file name="js-u2593-fr_2x.png" crc="113132965" ref="it"/>
+    <file name="bootstrap-u2595-fr.png" crc="311633406" ref="it"/>
+    <file name="bootstrap-u2595-fr_2x.png" crc="3840959458" ref="it"/>
+    <file name="jquery-logo-transparent-u2623-fr.png" crc="3816330765" ref="it"/>
+    <file name="jquery-logo-transparent-u2623-fr_2x.png" crc="416489153" ref="it"/>
+    <file name="java-u2625-fr.png" crc="3775928264" ref="it"/>
+    <file name="java-u2625-fr_2x.png" crc="3959754384" ref="it"/>
+    <file name="images-u2624-fr.png" crc="4270466870" ref="it"/>
+    <file name="images-u2624-fr_2x.png" crc="174601471" ref="it"/>
+    <file name="drupa_wp_joomla-u2626-fr.png" crc="4229857890" ref="it"/>
+    <file name="drupa_wp_joomla-u2626-fr_2x.png" crc="3853668434" ref="it"/>
+    <file name="800px-mysql-n_logosvg-u2666-fr.png" crc="303351055" ref="it"/>
+    <file name="800px-mysql-n_logosvg-u2666-fr_2x.png" crc="509096807" ref="it"/>
+    <file name="c0d23d2d6769e53e24a1b3136c064577-php_logo.png" crc="4096285229" ref="it"/>
+    <file name="c0d23d2d6769e53e24a1b3136c064577-php_logo_2x.png" crc="4086411848" ref="it"/>
+    <file name="we-favicon.ico" crc="430732908" ref="we"/>
+    <file name="video-favicon.ico" crc="430732908" ref="video"/>
+    <file name="photography_@2x.jpg" crc="3836744099" ref="video"/>
+    <file name="photography_@2x_2x.jpg" crc="112134938" ref="video"/>
+    <file name="film1-u3228-fr.png" crc="424887868" ref="video"/>
+    <file name="film1-u3228-fr_2x.png" crc="225564517" ref="video"/>
+    <file name="music-u3241-fr.png" crc="500442616" ref="video"/>
+    <file name="music-u3241-fr_2x.png" crc="530085395" ref="video"/>
+    <file name="tv-u3240-fr.png" crc="386088330" ref="video"/>
+    <file name="tv-u3240-fr_2x.png" crc="204789027" ref="video"/>
+    <file name="educator-effectiveness-tag_icon_2881x1401_color-u3239-fr.png" crc="132720157" ref="video"/>
+    <file name="educator-effectiveness-tag_icon_2881x1401_color-u3239-fr_2x.png" crc="4197803808" ref="video"/>
+    <file name="vfx-u3242-fr.png" crc="371291945" ref="video"/>
+    <file name="vfx-u3242-fr_2x.png" crc="363899637" ref="video"/>
+    <file name="crowd-u3238-fr.png" crc="471088970" ref="video"/>
+    <file name="crowd-u3238-fr_2x.png" crc="4109170655" ref="video"/>
+    <file name="web-u3243-fr.png" crc="3767224905" ref="video"/>
+    <file name="web-u3243-fr_2x.png" crc="316664869" ref="video"/>
+  </folder>
+  <file name="index.html" crc="4101832698" mt="1419090914624" redirect="true"/>
+  <file name="it.html" crc="4067804339" mt="1413020830905" redirect="true"/>
+  <file name="we.html" crc="3969961170" mt="1413024771671" redirect="true"/>
+  <file name="video.html" crc="496207803" mt="1413024781817" redirect="true"/>
+</manifest>
